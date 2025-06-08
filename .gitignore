@@ -1,0 +1,8 @@
+.DS_Store
+.clang-format
+.clangd
+Archivio.zip
+bst_lib.h
+bt.mk
+bt.project
+matrix.txt
